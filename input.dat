@@ -1,0 +1,33 @@
+Nmaxx Nmaxy Nmaxz
+60 60 60
+Lxa Lyb Lzc dL
+9.8064 10.6685 13.9712 0.5
+Alpha Beta Gamma
+95.3024 110.546 74.7329
+Temperature(K) Kapa Delta_Max Torr
+298    0.950000    2.000000    0.100000
+Kind_of_gas
+2
+Name Epsilon(K) Sigma(A) Bulk_Density(molec/A^3)
+0 36 2.95 3e-005
+1 148.1 3.73 3e-005
+Special_case
+0
+Id1 Id2 Epsilon(K) Sigma(A)
+Read_Vext  EOS    Cutoff Diff_EOS N3_cutoff
+0   1     12.9   1  0.99
+Mass(g/mol) Ds_Knudsen(m^2/s) MFV_parameter
+2.0              2E-8            0.712
+Kind_of_atoms
+3
+ID diameter(A) Epsilon(K)
+1 2.55866 7.04503
+2 2.55866 7.04503
+3 2.55866 7.04503
+Number_of_atoms Mass_MOF(g/mol)  Mass_Gas(g/mol)
+3  5099.168800   2.015800
+ID x y z
+1 6.1038 9.38956 3.47631
+2 8.57942 4.09617 10.4493
+3 3.66377 4.05531 10.4949
+
